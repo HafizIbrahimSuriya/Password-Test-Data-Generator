@@ -46,14 +46,14 @@ Useful for testing password strength checkers, authentication systems, hashing p
 1. Clone the repository or download the script:
 
 ```bash
-git clone https://github.com/yourusername/password-test-data-generator.git
-cd password-test-data-generator
+git clone [https://github.com/yourusername/password-test-data-generator.git
+cd password-test-data-generator](https://github.com/HafizIbrahimSuriya/Password-Test-Data-Generator)
 ```
 
 2. (Optional) Make the script executable:
 
 ```bash
-chmod +x Test.py
+chmod +x Password-Test-Data-Generator.py
 ```
 
 ---
@@ -63,13 +63,13 @@ chmod +x Test.py
 Run the script:
 
 ```bash
-python Test.py
+python Password-Test-Data-Generator.py
 ```
 
 or
 
 ```bash
-python3 Test.py
+python3 Password-Test-Data-Generator.py
 ```
 
 ### Interactive Steps
