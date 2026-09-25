@@ -46,8 +46,7 @@ Useful for testing password strength checkers, authentication systems, hashing p
 1. Clone the repository or download the script:
 
 ```bash
-git clone [https://github.com/yourusername/password-test-data-generator.git
-cd password-test-data-generator](https://github.com/HafizIbrahimSuriya/Password-Test-Data-Generator)
+git clone https://github.com/HafizIbrahimSuriya/Password-Test-Data-Generator
 ```
 
 2. (Optional) Make the script executable:
